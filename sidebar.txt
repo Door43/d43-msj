@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msj:home|Door43 (msj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msj|d43-msj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msj/archive/master.zip|d43-msj.zip]]
+
+**Recent Changes**
+{{changes>ns = msj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msj|Ethnologue data]]
+
